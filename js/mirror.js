@@ -17,6 +17,6 @@ var forecast_response = function(r) {
 
 $(window).load(function() {
 
-  update_forecasts(42.5267,-70.9011)
+  update_forecasts(41.850167,-72.363264)
 
 })

@@ -1,0 +1,18 @@
+@font-face {
+    font-family:        'LeagueSpartan';
+    src:                url('../LeagueSpartan-Bold.otf');
+    }
+
+body {
+    color:              #FFF;
+    background-color:   #000;
+    text-align:         right;
+    font-family:        'LeagueSpartan';
+    font-size:          48px;
+    }
+
+#container {
+    position:           absolute;
+    right:              0;
+    bottom:             0;
+    }
